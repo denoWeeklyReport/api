@@ -1,0 +1,1 @@
+deno run --allow-read --allow-run https://deno.land/x/live_reload@0.0.3/reload.ts --main=main.ts
